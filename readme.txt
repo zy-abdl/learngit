@@ -1,1 +1,2 @@
-zy learn git
+zy is learning git
+
